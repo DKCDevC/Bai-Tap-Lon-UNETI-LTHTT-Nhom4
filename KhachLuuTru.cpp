@@ -29,7 +29,7 @@ void KhachLuuTru::setSoDienThoai(string sdt)
 };
 void KhachLuuTru::setDiaChi(string dc) 
 {
-     diaChi = dc; 
+     diaChi = dc;
 }
 
 void KhachLuuTru::nhap() {
